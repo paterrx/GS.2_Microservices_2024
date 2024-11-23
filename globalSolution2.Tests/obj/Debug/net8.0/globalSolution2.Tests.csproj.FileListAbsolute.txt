@@ -121,3 +121,6 @@ C:\Users\labsfiap\source\repos\globalSolution2\globalSolution2.Tests\obj\Debug\n
 C:\Users\labsfiap\source\repos\globalSolution2\globalSolution2.Tests\obj\Debug\net8.0\globalSolution2.Tests.pdb
 C:\Users\labsfiap\source\repos\globalSolution2\globalSolution2.Tests\obj\Debug\net8.0\globalSolution2.Tests.genruntimeconfig.cache
 C:\Users\labsfiap\source\repos\globalSolution2\globalSolution2.Tests\obj\Debug\net8.0\ref\globalSolution2.Tests.dll
+C:\Users\funex\Documents\Organizacao\faculdade\3sir\microservices\gs\GS.2_Microservices\globalSolution2.Tests\obj\Debug\net8.0\globalSolution2.Tests.dll
+C:\Users\funex\Documents\Organizacao\faculdade\3sir\microservices\gs\GS.2_Microservices\globalSolution2.Tests\obj\Debug\net8.0\refint\globalSolution2.Tests.dll
+C:\Users\funex\Documents\Organizacao\faculdade\3sir\microservices\gs\GS.2_Microservices\globalSolution2.Tests\obj\Debug\net8.0\globalSolution2.Tests.pdb

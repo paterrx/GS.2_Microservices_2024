@@ -42,3 +42,6 @@ C:\Users\labsfiap\source\repos\globalSolution2\globalSolution2\obj\Debug\net8.0\
 C:\Users\labsfiap\source\repos\globalSolution2\globalSolution2\obj\Debug\net8.0\globalSolution2.pdb
 C:\Users\labsfiap\source\repos\globalSolution2\globalSolution2\obj\Debug\net8.0\globalSolution2.genruntimeconfig.cache
 C:\Users\labsfiap\source\repos\globalSolution2\globalSolution2\obj\Debug\net8.0\ref\globalSolution2.dll
+C:\Users\funex\Documents\Organizacao\faculdade\3sir\microservices\gs\GS.2_Microservices\globalSolution2\obj\Debug\net8.0\globalSolution2.dll
+C:\Users\funex\Documents\Organizacao\faculdade\3sir\microservices\gs\GS.2_Microservices\globalSolution2\obj\Debug\net8.0\refint\globalSolution2.dll
+C:\Users\funex\Documents\Organizacao\faculdade\3sir\microservices\gs\GS.2_Microservices\globalSolution2\obj\Debug\net8.0\globalSolution2.pdb
